@@ -1,91 +1,48 @@
-# Tracking Progress in Natural Language Processing
+# Tracking Progress in Natural Language Processing - Bahasa Indonesia
 
 ## Table of contents
 
 ### English
 
-- [Automatic speech recognition](english/automatic_speech_recognition.md)
-- [CCG](english/ccg.md)
-- [Common sense](english/common_sense.md)
-- [Constituency parsing](english/constituency_parsing.md)
-- [Coreference resolution](english/coreference_resolution.md)
-- [Dependency parsing](english/dependency_parsing.md)
-- [Dialogue](english/dialogue.md)
-- [Domain adaptation](english/domain_adaptation.md)
-- [Entity linking](english/entity_linking.md)
-- [Grammatical error correction](english/grammatical_error_correction.md)
-- [Information extraction](english/information_extraction.md)
-- [Intent Detection and Slot Filling](english/intent_detection_slot_filling.md)
-- [Language modeling](english/language_modeling.md)
-- [Lexical normalization](english/lexical_normalization.md)
-- [Machine translation](english/machine_translation.md)
-- [Missing elements](english/missing_elements.md)
-- [Multi-task learning](english/multi-task_learning.md)
-- [Multi-modal](english/multimodal.md)
-- [Named entity recognition](english/named_entity_recognition.md)
-- [Natural language inference](english/natural_language_inference.md)
-- [Part-of-speech tagging](english/part-of-speech_tagging.md)
-- [Question answering](english/question_answering.md)
-- [Relation prediction](english/relation_prediction.md)
-- [Relationship extraction](english/relationship_extraction.md)
-- [Semantic textual similarity](english/semantic_textual_similarity.md)
-- [Semantic parsing](english/semantic_parsing.md)
-- [Semantic role labeling](english/semantic_role_labeling.md)
-- [Sentiment analysis](english/sentiment_analysis.md)
-- [Shallow syntax](english/shallow_syntax.md)
-- [Simplification](english/simplification.md)
-- [Stance detection](english/stance_detection.md)
-- [Summarization](english/summarization.md)
-- [Taxonomy learning](english/taxonomy_learning.md)
-- [Temporal processing](english/temporal_processing.md)
-- [Text classification](english/text_classification.md)
-- [Word sense disambiguation](english/word_sense_disambiguation.md)
+- [Automatic speech recognition](bahasa_indonesia/automatic_speech_recognition.md)
+- [CCG](bahasa_indonesia/ccg.md)
+- [Common sense](bahasa_indonesia/common_sense.md)
+- [Constituency parsing](bahasa_indonesia/constituency_parsing.md)
+- [Coreference resolution](bahasa_indonesia/coreference_resolution.md)
+- [Dependency parsing](bahasa_indonesia/dependency_parsing.md)
+- [Dialogue](bahasa_indonesia/dialogue.md)
+- [Domain adaptation](bahasa_indonesia/domain_adaptation.md)
+- [Entity linking](bahasa_indonesia/entity_linking.md)
+- [Grammatical error correction](bahasa_indonesia/grammatical_error_correction.md)
+- [Information extraction](bahasa_indonesia/information_extraction.md)
+- [Intent Detection and Slot Filling](bahasa_indonesia/intent_detection_slot_filling.md)
+- [Language modeling](bahasa_indonesia/language_modeling.md)
+- [Lexical normalization](bahasa_indonesia/lexical_normalization.md)
+- [Machine translation](bahasa_indonesia/machine_translation.md)
+- [Missing elements](bahasa_indonesia/missing_elements.md)
+- [Multi-task learning](bahasa_indonesia/multi-task_learning.md)
+- [Multi-modal](bahasa_indonesia/multimodal.md)
+- [Named entity recognition](bahasa_indonesia/named_entity_recognition.md)
+- [Natural language inference](bahasa_indonesia/natural_language_inference.md)
+- [Part-of-speech tagging](bahasa_indonesia/part-of-speech_tagging.md)
+- [Question answering](bahasa_indonesia/question_answering.md)
+- [Relation prediction](bahasa_indonesia/relation_prediction.md)
+- [Relationship extraction](bahasa_indonesia/relationship_extraction.md)
+- [Semantic textual similarity](bahasa_indonesia/semantic_textual_similarity.md)
+- [Semantic parsing](bahasa_indonesia/semantic_parsing.md)
+- [Semantic role labeling](bahasa_indonesia/semantic_role_labeling.md)
+- [Sentiment analysis](bahasa_indonesia/sentiment_analysis.md)
+- [Shallow syntax](bahasa_indonesia/shallow_syntax.md)
+- [Simplification](bahasa_indonesia/simplification.md)
+- [Stance detection](bahasa_indonesia/stance_detection.md)
+- [Summarization](bahasa_indonesia/summarization.md)
+- [Taxonomy learning](bahasa_indonesia/taxonomy_learning.md)
+- [Temporal processing](bahasa_indonesia/temporal_processing.md)
+- [Text classification](bahasa_indonesia/text_classification.md)
+- [Word sense disambiguation](bahasa_indonesia/word_sense_disambiguation.md)
 
-### Vietnamese
 
-- [Dependency parsing](vietnamese/vietnamese.md#dependency-parsing)
-- [Machine translation](vietnamese/vietnamese.md#machine-translation)
-- [Named entity recognition](vietnamese/vietnamese.md#named-entity-recognition)
-- [Part-of-speech tagging](vietnamese/vietnamese.md#part-of-speech-tagging)
-- [Word segmentation](vietnamese/vietnamese.md#word-segmentation)
-
-### Hindi
-
-- [Chunking](hindi/hindi.md#chunking)
-- [Part-of-speech tagging](hindi/hindi.md#part-of-speech-tagging)
-- [Machine Translation](hindi/hindi.md#machine-translation)
-
-### Chinese
-
-- [Entity linking](chinese/chinese.md#entity-linking)
-- [Chinese word segmentation](chinese/chinese_word_segmentation.md)
-- [Question answering](chinese/question_answering.md)
-
-### French
-
-- [Question answering](french/question_answering.md)
-
-### Russian
-
-- [Question answering](russian/question_answering.md)
-
-### Spanish
-
-- [Entity linking](spanish/entity_linking.md#entity-linking)
-
-### Portuguese
-
-- [Question Answering](portuguese/question_answering.md)
-
-### Korean
-
-- [Question Answering](korean/question_answering.md)
-
-### Nepali
-
-- [Machine Translation](nepali/nepali.md#machine-translation)
-
-This document aims to track the progress in Natural Language Processing (NLP) and give an overview
+This document aims to track the progress in Natural Language Processing (NLP)  Bahasa Indonesia and give an overview
 of the state-of-the-art (SOTA) across the most common NLP tasks and their corresponding datasets.
 
 It aims to cover both traditional and core NLP tasks such as dependency parsing and part-of-speech tagging
